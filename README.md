@@ -1,7 +1,7 @@
 # Russian Twitter Troll Detection
 
-![accuracies.png](out/accuracies.png)
-![words.png](out/words.png)
+![accuracies.png](out/accuracies.jpg)
+![words.png](out/words.jpg)
 
 This project aims to detect and identify Russian troll tweets from a dataset of tweets collected during the 2016 US Election period. Using machine learning techniques including SVM, KNN, and Natural Language Processing methods, we create classifiers that can distinguish between normal tweets and those created by Russian trolls.
 
